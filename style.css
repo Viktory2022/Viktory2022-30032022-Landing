@@ -1,10 +1,9 @@
-/* body {
-
-} */
 ul {
-    display:flex;
-    justify-content: space-between;
+    display: flex;
+    justify-content: space-around;
     align-items: center;
     list-style-type: none;
-
+    border-top: 1px solid gray;
+    padding-top: 10px;
+    font-size: 8px;
 }
