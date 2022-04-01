@@ -9,7 +9,32 @@ ul {
 }
 
 div {
-    background: url(https://pro-dachnikov.com/uploads/posts/2021-10/1634083415_73-p-zagorodnie-doma-i-kottedzhi-proekti-foto-78.jpg)
     width: 100%;
     height: 250px;
+    align-items: center;
+    margin: auto 0;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.text {
+    background-image: url(img/zagorodnik.jpg);
+    font-size: 18px;
+    text-align: center;
+    color: white;
+    padding-top: 70px;
+}
+
+h1 {
+    font-size: 24px;
+    text-align: center;
+}
+
+.img {
+    float: right;
+}
+
+.block {
+    width: 50%;
+    padding-top: 0%;
 }
